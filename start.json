@@ -1,0 +1,15 @@
+{
+  "type": "pages",
+  "headline": "YouTube",
+  "pages": [
+    {
+      "items": [
+        {
+          "title": "YouTube",
+          "image": "https://www.youtube.com/s/desktop/12c7b2b0/img/favicon_32x32.png",
+          "action": "link:https://www.youtube.com/"
+        }
+      ]
+    }
+  ]
+}
